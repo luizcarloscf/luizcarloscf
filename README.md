@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+
 * Electrical Engineering student at UFES (Universidade Federal do Espiríto Santo);
 * Member of [Vision and Robots System (VIROS)](https://viros.ufes.br).
 
@@ -101,10 +104,33 @@
   <br>
   
   <p align="center">
-    <img alt="luizcarloscf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizcarloscf&theme=dracula&show_icons=true&line_height=27&count_private=true" height="200"/>
-    <img alt="luizcarloscf's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarloscf&layout=compact&theme=dracula&show_icons=true&line_height=27" height="200" />
+    <img alt="luizcarloscf's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luizcarloscf&theme=radical&show_icons=true&line_height=27&count_private=true" height="180em" />
+    <img alt="luizcarloscf's Github Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarloscf&layout=compact&theme=radical&show_icons=true&line_height=27" height="180em"  />
   </p>
 
   <br>
 
 </details>
+
+<details>
+  <summary> Contact </summary>
+
+  <br>
+  
+  <p align="center">
+    <a href="mailto:luizcarloscosmifilho@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+    </a>
+    <a href="https://dev.to/luizcarloscf">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev"/>
+    </a>
+    <a href="https://www.linkedin.com/in/luizcarloscf/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    </a>
+</p>
+
+  <br>
+
+</details>
+
+
