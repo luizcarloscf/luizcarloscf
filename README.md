@@ -172,17 +172,6 @@ Electrical Engineer pursuing a master’s degree, focused on computer vision, ro
 
 
 <details>
-    <summary> Wakatime Stats </summary>
-    <br>
-        <p align="center">
-            <a href="https://wakatime.com/@luizcarloscf">
-                <img alt="luizcarloscf's Wakatime Stats" src="https://wakatime.com/share/@luizcarloscf/e73707d2-2e7c-4f2a-8522-75f2224cb5a8.svg"/>
-            </a>
-        </p>
-    <br>
-</details>
-
-<details>
     <summary> Contact </summary>
     <br>
         <p align="center">
@@ -191,12 +180,6 @@ Electrical Engineer pursuing a master’s degree, focused on computer vision, ro
             </a>
             <a href="https://www.linkedin.com/in/luizcarloscf/">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-            </a>
-            <a href="https://wakatime.com/@luizcarloscf">
-                <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="wakatime"/>
-            </a>
-            <a href="https://leetcode.com/luizcarloscf/">
-                <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="wakatime"/>
             </a>
         </p>
     <br>
